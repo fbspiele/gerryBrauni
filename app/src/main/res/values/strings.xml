@@ -9,4 +9,20 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="fabButtonDescription">settings</string>
+
+
+    <string name="prefs_volume_save_key">prefs_volume_save_key</string>
+
+
+    <string name="prefs_last_active_right_index">prefs_last_active_right_index</string>
+    <string name="prefs_last_active_wrong_index">prefs_last_wrong_right_index</string>
+
+    <string name="prefs_category_active_richtig_sounds">prefs_category_active_richtig_sounds</string>
+    <string name="prefs_category_inactive_richtig_sounds">prefs_category_inactive_richtig_sounds</string>
+    <string name="prefs_category_active_falsch_sounds">prefs_category_active_falsch_sounds</string>
+    <string name="prefs_category_inactive_falsch_sounds">prefs_category_inactive_falsch_sounds</string>
+
+    <string name="prefs_key_richtig_list_save_key">prefs_key_richtig_list_save_key</string>
+    <string name="prefs_key_falsch_list_save_key">prefs_key_falsch_list_save_key</string>
 </resources>
